@@ -1,2 +1,2 @@
-var name = nameString ("Myrrh");
+var name = nameString ("Esther Manthi");
 console.log(name);
